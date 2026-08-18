@@ -17,8 +17,4 @@ AuditEngine-AI combines classical machine learning, PyTorch deep learning vision
 ---
 
 ## 🚀 Quickstart
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/auditengine-ai.git
-   cd auditengine-ai
+**Clone the repository:**
